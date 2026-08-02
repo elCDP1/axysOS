@@ -1,1 +1,1 @@
-axysOS base based in Arch Linux baseline profile
+axysOS base based in Arch Linux releng profile

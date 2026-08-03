@@ -6,7 +6,7 @@ iso_label="ARCH_$(date --date="@${SOURCE_DATE_EPOCH:-$(date +%s)}" +%Y%m)"
 iso_publisher="axysOS"
 iso_application="axysOS Live Environment"
 iso_version="$(date --date="@${SOURCE_DATE_EPOCH:-$(date +%s)}" +%Y.%m.%d)"
-install_dir="arch"
+install_dir="axysos"
 buildmodes=('iso')
 bootmodes=('bios.syslinux'
            'uefi.systemd-boot')

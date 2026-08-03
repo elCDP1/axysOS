@@ -1,0 +1,10 @@
+NAME="axysOS"
+PRETTY_NAME="axysOS"
+ID=axysos
+BUILD_ID=rolling
+ANSI_COLOR="38;2;23;147;209"
+HOME_URL="https://github.com/elCDP1/axysOS"
+DOCUMENTATION_URL="https://github.com/elCDP1/axysOS"
+SUPPORT_URL="https://github.com/elCDP1/axysOS/issues"
+BUG_REPORT_URL="https://github.com/elCDP1/axysOS/issues"
+LOGO=axysos

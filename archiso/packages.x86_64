@@ -59,6 +59,8 @@ openssh
 pcsclite
 ppp
 pv
+python
+python-pip
 refind
 reflector
 rsync
